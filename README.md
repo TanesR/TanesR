@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TanesR
-- 🌱 I’m currently learning Python.
+
 
 
 <!---
